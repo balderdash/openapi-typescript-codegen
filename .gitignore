@@ -8,7 +8,6 @@ junit.xml
 .idea
 .vscode
 *.iml
-dist
 archive
 coverage
 test/result
